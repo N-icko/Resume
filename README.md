@@ -1,7 +1,7 @@
-# Nickolay Kuzmyn
+# Nickolay Kuzmyn 
+## Frontend developer
 
-### Technology stack:
-
+#### Technology stack:
 <ul>
 <li>HTML5, SASS/(SCSS)</li>
 <li>Bootstrap 4, jQuery</li>
@@ -11,15 +11,15 @@
 <li>React / Redux</li>
 </ul>
 
-### Project-examples
+#### Project examples:
 <div class="w3-responsive">
 <font size="12px">
 <table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
-<th width="40%">Проект</th>
-<th width="60%">Технологии</th>
-<th>Категория</th>
+<th width="25%">Проект</th>
+<th width="50%">Технологии</th>
+<th width="25%">Категория</th>
 </tr>
 </thead>
 <tbody>
