@@ -3,7 +3,7 @@
 
 #### Technology stack:
 <ul>
-<li>HTML5, SASS/(SCSS)</li>
+<li>HTML5, SASS/SCSS</li>
 <li>Bootstrap 4, jQuery</li>
 <li>JavaScript (ES5, ES6)</li>
 <li>GitHub, GitKraken GUI</li>
@@ -35,12 +35,12 @@
 </tr>
 <tr>
 <td><a href="https://n-icko.github.io/testTask__SPA-with-form/">SPA with form</a></td>
-<td> HTML5, SCSS, JavaScript (as jQuery library), Bootstrap + <em>adaptive<em/></td>
+<td> HTML5, SCSS, JavaScript (as jQuery library), Bootstrap <em>without adaptive <em/></td>
 <td align="center"> Markup / Registration</td>
 </tr>
 <tr>
 <td><a href="https://n-icko.github.io/testTask__Modal-registration/"> Modal registration form</a></td>
-<td> HTML5, SCSS, jQuery | AJAX/Fetch, Bootstrap (Carousel) <em>without adaptive <em/></td>
+<td> HTML5, SCSS, jQuery | AJAX/Fetch, Bootstrap (Carousel) + <em>adaptive</em></td>
 <td align="center"> Markup / Registration</td>
 </tr>
 </tbody>
