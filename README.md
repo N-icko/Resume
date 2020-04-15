@@ -43,7 +43,7 @@
 <td align="center"> Markup / Registration</td>
 </tr>
 <tr>
-<td><a target="_blank" href="https://github.com/N-icko/testTask__Title-page"> Header & slider screen</a></td>
+<td><a href="https://github.com/N-icko/testTask__Title-page"> Header & slider screen</a></td>
 <td> HTML5, SCSS, Bootstrap + <em>full responsive</em></td>
 <td align="center"> Markup / Heroscreen</td>
 </tbody>
