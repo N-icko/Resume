@@ -3,15 +3,16 @@
 
 #### Technology stack:
 <ul>
-<li>HTML5, SASS/SCSS</li>
-<li>Bootstrap 4, jQuery</li>
-<li>JavaScript (ES5, ES6)</li>
-<li>GitHub, GitKraken GUI</li>
-<li>Photoshop</li>
-<li>React / Redux</li>
+<li>HTML5 | SASS/SCSS</li>
+<li>Bootstrap 4 | jQuery</li>
+<li>JavaScript (ES6+)</li>
+<li>GitHub | GitKraken GUI</li>
+<li>Photoshop | Figma</li>
+<li>React | Redux</li>
 </ul>
 
 #### Project examples:
+
 <div class="w3-responsive">
 <table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
@@ -46,10 +47,16 @@
 <td><a href="https://github.com/N-icko/testTask__Title-page"> Header & slider screen</a></td>
 <td> HTML5, SCSS, Bootstrap + <em>full responsive</em></td>
 <td align="center"> Markup / Heroscreen</td>
-</tr><tr>
+</tr>
+<tr>
 <td><a href="https://n-icko.github.io/react-tools/"> Simple react tools</a></td>
 <td> React, SCSS, Material-UI + <em>responsive</em></td>
 <td align="center"> SPA</td>
+</tr>
+<tr>
+<td><a href="https://n-icko.github.io/testTask__TattooLandingPage/"> Tattoo saloon landing</a></td>
+<td> HTML5, SCSS, Bootstrap + <em>responsive</em></td>
+<td align="center"> Markup / Landing </td>
 </tr>
 </tbody>
 </table>
