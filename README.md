@@ -58,6 +58,11 @@
 <td> HTML5, SCSS, Bootstrap + <em>responsive</em></td>
 <td align="center"> Markup / Landing </td>
 </tr>
+  <tr>
+<td><a href="https://github.com/N-icko/axels-test-task">Task for Axel`s</a></td>
+<td> React, Redux, Redux-Saga, Styled-Components, React-Router, React & Router Hooks, Jest & Enzyme  + <em>responsive</em></td>
+<td align="center"> SPA </td>
+</tr>
 </tbody>
 </table>
 </div>
