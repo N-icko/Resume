@@ -65,7 +65,7 @@
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/N-icko/react-todo">Simple TODO list</a></td>
-<td> React, React Hooks, Materialize CSS</td>
+<td align="center"> React, React Hooks, Materialize CSS</td>
 <td align="center"> SPA </td>
 </tr>
 </tbody>
