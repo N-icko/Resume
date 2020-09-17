@@ -8,7 +8,7 @@
 <li>JavaScript (ES6+)</li>
 <li>GitHub | GitKraken GUI</li>
 <li>Photoshop | Figma</li>
-<li>React | Redux</li>
+<li>React (Hooks, Router) | Redux (Hooks, Saga)</li>
 </ul>
 
 #### Project examples:
@@ -63,8 +63,8 @@
 <td> React, Redux, Redux-Saga, Styled-Components, React-Router, React & Router Hooks, Jest & Enzyme  + <em>responsive</em></td>
 <td align="center"> SPA </td>
 </tr>
- <tr>
-<td align="center"><a href="https://n-icko.github.io/react-todo/">TODO list</a></td>
+<tr>
+<td align="center"><a href="https://github.com/N-icko/react-todo">Simple TODO list</a></td>
 <td> React, React Hooks, Materialize CSS</td>
 <td align="center"> SPA </td>
 </tr>
