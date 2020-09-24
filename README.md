@@ -69,7 +69,7 @@
 <td align="center"> SPA </td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/N-icko/develops-today-test-task">Simple TODO list</a></td>
+<td align="center"><a href="https://github.com/N-icko/develops-today-test-task">SSR Blog (testtask)</a></td>
 <td align="center"> TypeScript, Next.js, React, React-Redux, Axios</td>
 <td align="center"> SSR SPA </td>
 </tr>
