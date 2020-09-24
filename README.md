@@ -68,6 +68,11 @@
 <td align="center"> React, React Hooks, Materialize CSS</td>
 <td align="center"> SPA </td>
 </tr>
+<tr>
+<td align="center"><a href="https://github.com/N-icko/develops-today-test-task">Simple TODO list</a></td>
+<td align="center"> TypeScript, Next.js, React, React-Redux, Axios</td>
+<td align="center"> SSR SPA </td>
+</tr>
 </tbody>
 </table>
 </div>
