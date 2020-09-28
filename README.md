@@ -5,10 +5,11 @@
 <ul>
 <li>HTML5 | SASS/SCSS</li>
 <li>Bootstrap 4 | jQuery</li>
-<li>JavaScript (ES6+)</li>
+<li>JavaScript (ES6+) | TypeScript</li>
 <li>GitHub | GitKraken GUI</li>
 <li>Photoshop | Figma</li>
 <li>React (Hooks, Router) | Redux (Hooks, Saga)</li>
+<li>Material UI, Styled Components, Semantic UI, Materialize CSS</li>
 </ul>
 
 #### Project examples:
