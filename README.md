@@ -1,5 +1,5 @@
 # Nickolay Kuzmyn 
-## Frontend developer
+## <JavaScript && Frontend Developer />
 
 #### Technology stack:
 <ul>
@@ -8,7 +8,7 @@
 <li>JavaScript (ES6+) | TypeScript</li>
 <li>GitHub | GitKraken GUI</li>
 <li>Photoshop | Figma</li>
-<li>React (Hooks, Router) | Redux (Hooks, Saga)</li>
+<li>React (Hooks, Router) | Redux (Hooks, Saga, Redux-Form)</li>
 <li>Material UI, Styled Components, Semantic UI, Materialize CSS</li>
 </ul>
 
